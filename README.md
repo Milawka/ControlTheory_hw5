@@ -1,12 +1,12 @@
 # ControlTheory_hw5
-###### To run my code you probably need:
+##### To run my code you probably need:
 ⋅⋅⋅sudo apt install python-pip
 ⋅⋅⋅pip install python-tk
 ⋅⋅⋅pip install numpy matplotlib
 ⋅⋅⋅pip install filterpy --user 
 and finally:
 ⋅⋅⋅python m.py 
-------
+
 #    REPORT
 0. I installed all needed pacjages
 1. I wrote a code
