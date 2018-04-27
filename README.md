@@ -18,4 +18,4 @@ $ python m.py
    2. Next I try to build this plot for if we had ideal model (without noise), using formulas from pdf you gave us, from chapter "Forward Kinematics for Differential Drive Robot". Using data taken from camera and gyroscope. I get a plot and see it.(orange line)
    3. And finally I try to build a plot from data taken from the camera and gyroscope and applying to this kalman filter. And for this case I used a library (for Kalman) (green line)
   
-ps: I also swaped Vl and Vr  :simple_smile:
+ps: I also swaped Vl and Vr 
